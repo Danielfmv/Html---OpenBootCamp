@@ -1,0 +1,11 @@
+.btn-modern {
+    background-color:gray;
+    transition: 0.4;
+}
+
+.btn-modern:hover {
+    transform: translateY(-5px);
+    box-shadow: 5px 5px 5px grey;
+    background-color: darksalmon;
+    color: cyan;
+}
